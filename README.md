@@ -10,7 +10,7 @@
 
 ## About Me
 
-MS Business Analytics graduate from **Webster University** with **5 years of hands-on banking experience** as a Credit Analyst and Operations Officer at Siddhartha Bank Limited. I bridge the gap between business domain expertise and data analytics — I understand banking operations from the inside and translate that knowledge into actionable, data-driven insights.
+MS Business Analytics graduate from **Webster University** with **4+ years of hands-on banking experience** as a Credit Analyst and Operations Officer at Siddhartha Bank Limited. I bridge the gap between business domain expertise and data analytics — I understand banking operations from the inside and translate that knowledge into actionable, data-driven insights.
 
 - 🏦 **Banking Domain:** Credit Risk, Loan Processing, Portfolio Management, Operations
 - 📊 **Analytics:** EDA, Statistical Modeling, KPI Design, Dashboard Development
