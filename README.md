@@ -55,7 +55,7 @@ A complete end-to-end Business Analytics project built to mirror real banking in
 
 **Key Finding:** STP rate of 46.7% is 33 percentage points below the 80% policy target — root cause identified as the Borderline Credit Score exception driving 53.3% manual review rate.
 
-[View Project →][(https://github.com/amitlamsal/credit-card-stp-exception-queue-dashboard)]
+[View Project →](https://github.com/amitlamsal/credit-card-stp-exception-queue-dashboard)
 
 ---
 
