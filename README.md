@@ -35,7 +35,7 @@ MS Business Analytics graduate from **Webster University** with **5 years of han
 ## Featured Projects
 
 ### 🏦 Credit Card STP and Exception Queue Optimization Dashboard
-> **Most comprehensive project — mirrors real U.S. banking BA project lifecycle**
+> **Mirrors real U.S. banking BA project lifecycle**
 
 A complete end-to-end Business Analytics project built to mirror real banking industry practice. Starting from a Business Requirements Document through to a 3-page Power BI dashboard, key findings, and actionable recommendations.
 
