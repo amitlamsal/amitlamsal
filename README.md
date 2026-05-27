@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-amitlamsal-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/amitlamsal)
 [![Email](https://img.shields.io/badge/Email-amitlamsal72@gmail.com-D14836?style=flat&logo=gmail)](mailto:amitlamsal72@gmail.com)
-![Location](https://img.shields.io/badge/Location-St.%20Louis%2C%20MO-1F4E79?style=flat)
+
 
 ---
 
