@@ -101,18 +101,18 @@ End-to-end business process execution in SAP S/4HANA covering procurement, inven
 
 ## Professional Experience
 
-<img src="logo.jpg" alt="Siddhartha Bank Limited" width="80"/>
-**Siddhartha Bank Limited** — Nepal
-- 🏦 Junior Credit Analyst | Assistant Relationship Officer *(Jul 2020 – Feb 2024)*
-  - Achieved **14% growth** in branch loan portfolio through credit risk analysis
-  - Increased new credit inquiries by **40%** through process improvements
-  - Recovered **9% of doubtful debt** and ensured federal credit policy compliance
-  - Built KPI dashboards for loan portfolio health monitoring
+<img src="https://raw.githubusercontent.com/amitlamsal/amitlamsal/main/logo.jpg" alt="Siddhartha Bank Limited" width="30"/>  **Siddhartha Bank Limited** — Nepal
 
-- 📋 Operations Analyst | Assistant Operations Officer *(Jul 2019 – Jun 2020)*
-  - Grew branch deposit portfolio by **17%** through data-driven initiatives
-  - Managed **$1M+ operational budgets**, reducing expenses by **12%**
-  - Resolved **65+ monthly** customer inquiries with **90% satisfaction rate**
+**Junior Credit Analyst | Assistant Relationship Officer** *(Jul 2020 – Feb 2024)*
+- Achieved **14% growth** in branch loan portfolio through credit risk analysis
+- Increased new credit inquiries by **40%** through process improvements
+- Recovered **9% of doubtful debt** and ensured federal credit policy compliance
+- Built KPI dashboards for loan portfolio health monitoring
+
+**Operations Analyst | Assistant Operations Officer** *(Jul 2019 – Jun 2020)*
+- Grew branch deposit portfolio by **17%** through data-driven initiatives
+- Managed **$1M+ operational budgets**, reducing expenses by **12%**
+- Resolved **65+ monthly** customer inquiries with **90% satisfaction rate**
 
 ---
 
