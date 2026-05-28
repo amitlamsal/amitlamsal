@@ -134,7 +134,7 @@ End-to-end business process execution in SAP S/4HANA covering procurement, inven
 ---
 
 ## GitHub Stats
-
+![Profile Views](https://komarev.com/ghpvc/?username=amitlamsal&color=1F4E79&style=flat&label=Profile+Views)
 ![Amit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amitlamsal&show_icons=true&theme=default&hide_border=true&title_color=1F4E79&icon_color=2E75B6)
 
 ---
