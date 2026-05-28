@@ -59,21 +59,34 @@ A complete end-to-end Business Analytics project built to mirror real banking in
 
 ---
 
+### NIKE Financial Analytics & Revenue Forecasting
+![NIKE](https://img.shields.io/badge/NIKE-000000?style=flat&logo=nike&logoColor=white)
+
+Dual analytics project combining a **Power BI financial performance dashboard** (5-year analysis — Revenue, Gross Profit, Liquidity, Assets vs Liabilities) with a **RapidMiner machine learning revenue forecasting model** trained on 20 years of quarterly data. Four models tested — Linear Regression selected as optimal for time series forecasting.
+
+**What was built:**
+- 📊 Interactive Power BI dashboard — 6 financial visualizations covering Revenue, Gross Profit, Liquidity, Assets vs Liabilities, Net Profit Margin and Industry Benchmark comparison
+- 🤖 Machine learning revenue forecasting model in RapidMiner — Linear Regression, Decision Tree, Random Forest and KNN tested
+- 📈 20-year quarterly dataset combining NIKE financial data with macroeconomic variables (GDP, Unemployment, Inflation)
+- 📋 Financial analysis report — 5-year performance assessment with conclusions and recommendations
+- 🎯 Model deployment — Linear Regression selected over KNN for superior time series suitability despite lower raw performance metrics
+- 📄 Two academic presentations — Data Visualization course and Machine Learning for Business course
+
+**Key Finding:** NIKE total revenue of $218.99K million outperformed industry benchmark by 36.7%
+
+**Tools:** Power BI | RapidMiner | Excel | PowerPoint
+
+[View Project →](https://github.com/amitlamsal/NIKE-Financial-Analytics-and-Revenue-Forecasting)
+
+---
+
+
 ### 📈 California Housing Price Prediction
 Regression modeling project using Python to predict housing prices with multicollinearity testing, heteroskedasticity validation and residual diagnostics.
 
 **Tools:** Python | Pandas | Statsmodels | Matplotlib
 
 [View Project →](https://github.com/amitlamsal/california-housing-prediction)
-
----
-
-### 👟 NIKE Revenue Forecasting & Financial Analytics
-Dual project combining predictive revenue forecasting (RapidMiner — Linear Regression, Decision Tree, Random Forest, KNN) with interactive Power BI dashboards analyzing multi-year financial statements and KPIs.
-
-**Tools:** RapidMiner | Power BI | Excel
-
-[View Project →](https://github.com/amitlamsal/nike-financial-analytics)
 
 ---
 
