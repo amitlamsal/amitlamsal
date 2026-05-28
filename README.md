@@ -101,6 +101,7 @@ End-to-end business process execution in SAP S/4HANA covering procurement, inven
 
 ## Professional Experience
 
+<img src="logo.jpg" alt="Siddhartha Bank Limited" width="80"/>
 **Siddhartha Bank Limited** — Nepal
 - 🏦 Junior Credit Analyst | Assistant Relationship Officer *(Jul 2020 – Feb 2024)*
   - Achieved **14% growth** in branch loan portfolio through credit risk analysis
