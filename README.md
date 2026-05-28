@@ -84,7 +84,7 @@ Dual analytics project combining a **Power BI financial performance dashboard** 
 ### 📈 California Housing Price Prediction
 Regression modeling project using Python to predict housing prices with multicollinearity testing, heteroskedasticity validation and residual diagnostics.
 
-**Tools:** Python | Pandas | Statsmodels | Matplotlib
+**Tools:** Python | Pandas | Statsmodels | Matplotlib.
 
 [View Project →](https://github.com/amitlamsal/california-housing-prediction)
 
