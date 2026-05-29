@@ -98,7 +98,7 @@ Multiple Linear Regression analysis predicting housing prices using Python. Thre
 
 **Tools:** Python | Pandas | Statsmodels | Seaborn | Matplotlib | SciPy
 
-[View Project →](https://github.com/amitlamsal/california-housing-price-prediction)
+[View Project →](https://github.com/amitlamsal/California-Housing-Price-Prediction-using-Python)
 
 ---
 
