@@ -82,11 +82,23 @@ Dual analytics project combining a **Power BI financial performance dashboard** 
 
 
 ### 📈 California Housing Price Prediction
-Regression modeling project using Python to predict housing prices with multicollinearity testing, heteroskedasticity validation and residual diagnostics.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-**Tools:** Python | Pandas | Statsmodels | Matplotlib.
+Multiple Linear Regression analysis predicting housing prices using Python. Three OLS models built and compared using R², Adjusted R², AIC and BIC. Model 2 selected as optimal. Full statistical validation including multicollinearity (VIF), heteroskedasticity (Breusch-Pagan), normality testing and outlier detection using Cook's Distance.
 
-[View Project →](https://github.com/amitlamsal/california-housing-prediction)
+**What was built:**
+- 🐍 Three OLS regression models built and compared using R², Adjusted R², AIC and BIC
+- 📊 Visual exploration using Seaborn pairplots and individual scatter plots
+- 🔍 VIF test for multicollinearity — all variables checked against threshold of 5
+- 📉 Breusch-Pagan test for heteroskedasticity — formal statistical validation
+- 🎯 Influence plot using Cook's Distance — outlier detection and analysis
+- 🔮 Predictions on 5 hypothetical observations using best model
+
+**Key Finding:** Model 2 (Area + Bedrooms + Bathrooms + Stories) selected as best model with highest R² and Adjusted R² and lowest AIC and BIC values
+
+**Tools:** Python | Pandas | Statsmodels | Seaborn | Matplotlib | SciPy
+
+[View Project →](https://github.com/amitlamsal/california-housing-price-prediction)
 
 ---
 
