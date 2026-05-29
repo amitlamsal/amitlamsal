@@ -59,22 +59,22 @@ A complete end-to-end Business Analytics project built to mirror real banking in
 
 ---
 
-### NIKE Financial Analytics & Revenue Forecasting
+### NIKE Financial Analytics, Revenue Forecasting & Stock Valuation
 ![NIKE](https://img.shields.io/badge/NIKE-000000?style=flat&logo=nike&logoColor=white)
 
-Dual analytics project combining a **Power BI financial performance dashboard** (5-year analysis — Revenue, Gross Profit, Liquidity, Assets vs Liabilities) with a **RapidMiner machine learning revenue forecasting model** trained on 20 years of quarterly data. Four models tested — Linear Regression selected as optimal for time series forecasting.
+Three-part comprehensive financial analytics study combining descriptive analytics, predictive ML forecasting and investment decision modeling for a complete 360-degree view of NIKE Inc.
 
 **What was built:**
-- 📊 Interactive Power BI dashboard — 6 financial visualizations covering Revenue, Gross Profit, Liquidity, Assets vs Liabilities, Net Profit Margin and Industry Benchmark comparison
-- 🤖 Machine learning revenue forecasting model in RapidMiner — Linear Regression, Decision Tree, Random Forest and KNN tested
-- 📈 20-year quarterly dataset combining NIKE financial data with macroeconomic variables (GDP, Unemployment, Inflation)
-- 📋 Financial analysis report — 5-year performance assessment with conclusions and recommendations
-- 🎯 Model deployment — Linear Regression selected over KNN for superior time series suitability despite lower raw performance metrics
-- 📄 Two academic presentations — Data Visualization course and Machine Learning for Business course
+- 📊 Interactive Power BI dashboard — 6 financial visualizations (5-year analysis)
+- 🤖 RapidMiner ML revenue forecasting — 4 models tested across 20 years of data
+- 💰 Excel stock valuation model — target price $100.70 vs market price $77.25 — BUY
+- 📈 Competitor benchmarking — 7 competitors analyzed (Adidas, Anta, Lululemon etc.)
+- 📉 Regression analysis — CPI inflation vs NIKE revenue growth
+- 🌍 Geographic revenue breakdown — North America, EMEA, Greater China, APLA
 
-**Key Finding:** NIKE total revenue of $218.99K million outperformed industry benchmark by 36.7%
+**Key Finding:** NIKE revenue outperformed industry benchmark by 36.7% — stock valuation model generates BUY recommendation with 30.3% upside potential
 
-**Tools:** Power BI | RapidMiner | Excel | PowerPoint
+**Tools:** Power BI | RapidMiner | Excel | PowerPoint | SEC.gov | Federal Reserve Data
 
 [View Project →](https://github.com/amitlamsal/NIKE-Financial-Analytics-and-Revenue-Forecasting)
 
