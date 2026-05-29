@@ -102,15 +102,6 @@ Multiple Linear Regression analysis predicting housing prices using Python. Thre
 
 ---
 
-### 🏢 SAP S/4HANA Enterprise Systems Case Study
-End-to-end business process execution in SAP S/4HANA covering procurement, inventory management, sales order processing and billing cycles for Global Bikes Inc.
-
-**Tools:** SAP S/4HANA | MM Module | SD Module
-
-[View Project →](https://github.com/amitlamsal/sap-s4hana-case-study)
-
----
-
 ## Professional Experience
 
 <img src="https://raw.githubusercontent.com/amitlamsal/amitlamsal/main/logo.jpg" alt="Siddhartha Bank Limited" width="30"/>  **Siddhartha Bank Limited** — Nepal
